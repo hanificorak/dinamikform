@@ -8,8 +8,7 @@ Using JQuery and Bootstrap, I prepared a basic application that chooses input ty
 Kullanımı ve Hazırlanışı / Usage
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/1UD9LFA0OyU/0.jpg)]
-(https://www.youtube.com/watch?v=1UD9LFA0OyU)
+[![Watch the video](https://img.youtube.com/vi/1UD9LFA0OyU/maxresdefault.jpg)](https://youtu.be/1UD9LFA0OyU)
 
 
 
