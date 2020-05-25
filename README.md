@@ -5,12 +5,13 @@ JQuery ve Bootstrap kullanarak input türlerini seçip hazır elementler oluşut
 
 Using JQuery and Bootstrap, I prepared a basic application that chooses input types and creates ready elements.
 
-Kullanımı ve Hazırlanışı / Usage
+![alt text](https://i.imgyukle.com/2020/05/25/yH62Uq.png)
 
+Kullanımı ve Hazırlanışı / Usage
 
 [![Watch the video](https://img.youtube.com/vi/1UD9LFA0OyU/maxresdefault.jpg)](https://youtu.be/1UD9LFA0OyU)
 
 
 
-![alt text](https://i.imgyukle.com/2020/05/25/yH62Uq.png)
+
 
